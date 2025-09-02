@@ -1,10 +1,4 @@
 
----
-
-## 📄 mtp_tls.sh
-（我已帮你改好，支持交互输入端口，结束后会自动输出 tg:// 链接）
-
-```bash
 #!/bin/bash
 # mtp_tls.sh - 一键部署 MTProto Proxy (mtg) + TLS 前置 + 多端口流量混淆
 # For Ubuntu 22.04/24.04
