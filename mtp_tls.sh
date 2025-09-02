@@ -1,8 +1,4 @@
-
 #!/bin/bash
-# mtp_tls.sh - 一键部署 MTProto Proxy (mtg) + TLS 前置 + 多端口流量混淆
-# For Ubuntu 22.04/24.04
-
 set -e
 
 MTG_BIN="/usr/local/bin/mtg"
